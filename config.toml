@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-baseURL = "http://examplesite.org"
-title = "Educenter | hugo education template"
+baseURL = "https://xingxing.io"
+title = " Wang Linjie blog | 不忘初心 继续前行 "
 theme = "educenter-hugo"
 # post pagination
 paginate = "6"
@@ -48,9 +48,9 @@ logo = "images/logo.png"
 description = "This is meta description"
 author = "Themefisher"
 # contact info
-address = "9567 Turner Trace Apt. BC C3G8A4"
-mobile = "+211234565523"
-email = "info@educenter.com"
+address = "CHINA Beijing"
+#mobile = "+211234565523"
+email = "xingxingwang122@gmail.com"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs
